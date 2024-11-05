@@ -125,7 +125,6 @@ button {
       grid-template-columns: 1fr;
   }
 }
-/* src/App.css */
 .stop-button {
   background-color: #ff4c4c; /* Red background for stop button */
   color: white; /* White text */
@@ -256,5 +255,5 @@ button {
 }
 
 .profile-link:hover {
-  text-decoration: underline; /* Underline on hover */
+  text-decoration: underline; 
 }
