@@ -137,10 +137,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ```
 
 ### Directory Tree Structure
-
-Here’s how your project directory might look:
-
-```
 follow-github-users/
 ├── .env                  # Environment variables (e.g., GitHub token)
 ├── .gitignore            # Files and directories to ignore in Git
@@ -155,6 +151,9 @@ follow-github-users/
     ├── index.html        # Main HTML file for the app
     └── favicon.ico       # Favicon for the app
 ```
+
+```
+
 
 ### Explanation of Directory Structure
 
