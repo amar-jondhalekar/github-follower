@@ -62,7 +62,7 @@ Follow these steps to set up your local development environment:
 
 ## Author
 
-- **Amar Jondhalekar** - [Your GitHub Profile](https://github.com/yourusername)
+- **Amar Jondhalekar** -(https://github.com/amar-jondhalekar)
 
 ## License
 
@@ -99,7 +99,7 @@ Follow these steps to set up your local development environment:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/follow-github-users.git
+   git clone [https://github.com/yourusername/follow-github-users.git](https://github.com/amar-jondhalekar/github-follower.git)
    ```
 
 2. **Navigate to the project directory:**
@@ -134,7 +134,7 @@ Follow these steps to set up your local development environment:
 
 ## Author
 
-- **Amar Jondhalekar** - [Your GitHub Profile](https://github.com/yourusername)
+- **Amar Jondhalekar** -(https://github.com/amar-jondhalekar)
 
 ## License
 
@@ -155,8 +155,6 @@ follow-github-users/
 └── public/               # Static files directory
     ├── index.html        # Main HTML file for the app
     └── favicon.ico       # Favicon for the app
-```
-
 ```
 
 
