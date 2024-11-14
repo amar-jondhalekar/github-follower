@@ -99,7 +99,7 @@ Follow these steps to set up your local development environment:
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/yourusername/follow-github-users.git](https://github.com/amar-jondhalekar/github-follower.git)
+   git clone (https://github.com/amar-jondhalekar/github-follower.git)
    ```
 
 2. **Navigate to the project directory:**
